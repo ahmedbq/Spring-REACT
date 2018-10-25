@@ -1,0 +1,6 @@
+[1005/105638.815:ERROR:crashpad_client_win.cc(384)] OpenProcess: Access is denied. (0x5)
+[1005/105639.016:ERROR:crashpad_client_win.cc(130)] crash server failed to launch, self-terminating
+[1005/110401.153:ERROR:crashpad_client_win.cc(384)] OpenProcess: Access is denied. (0x5)
+[1005/110401.405:ERROR:crashpad_client_win.cc(130)] crash server failed to launch, self-terminating
+[1005/145016.551:ERROR:crashpad_client_win.cc(384)] OpenProcess: Access is denied. (0x5)
+[1005/145016.683:ERROR:crashpad_client_win.cc(130)] crash server failed to launch, self-terminating
